@@ -1,5 +1,5 @@
-var apiData = {
-  0: {
+var apiData = [
+  {
     name: 'Rufus',
     breeds: ['Lab', 'German Shepard', 'Border Collie'],
     age: 'adult',
@@ -10,7 +10,7 @@ var apiData = {
     description:
       'Hail-shot bounty barque  chase guns. Brigantine gibbet haul wind line.  Barque chandler lookout clap of thunder. Transom hogshead trysail league.'
   },
-  1: {
+  {
     name: 'kylie jane',
     breeds: ['Shih Tzu'],
     age: 'baby',
@@ -21,7 +21,7 @@ var apiData = {
     description:
       '   Hands loaded to the gunwalls topgallant long clothes. Crack Jennys tea cup topsail flogging handsomely. Bounty blow the man down nipper pillage. Chantey landlubber or just lubber red ensign warp.'
   },
-  2: {
+  {
     name: 'jacque ',
     breeds: ['Chihuahua', 'Rat Terrier'],
     age: 'senior',
@@ -32,7 +32,7 @@ var apiData = {
     description:
       'Interloper tackle   yo-ho-ho yard. Gangway keelhaul no prey, no pay sheet. Hang the jib snow careen transom. Broadside gabion bilged on her anchor sloop.'
   },
-  3: {
+  {
     name: 'Elsa',
     breeds: ['Irish Wolfhound', 'Wirehaired Terrier', 'Staffordshire Terrier'],
     age: 'adult',
@@ -43,7 +43,7 @@ var apiData = {
     description:
       'Take a caulk league pink main sheet. Letter of Marque avast coxswain fire in the hole. Yardarm schooner piracy Jack Tar. Yardarm hardtack rutters poop deck.'
   },
-  4: {
+  {
     name: 'Colt',
     breeds: ['Staffordshire Terrier', 'Dalmation'],
     age: 'baby',
@@ -54,4 +54,4 @@ var apiData = {
     description:
       '     Come about Nelsons folly  black jack measured fer yer chains.  Hail-shot tack sloop grapple.  Boom sheet spirits man-of-war.  Scuttle bounty hulk sloop.'
   }
-};
+];

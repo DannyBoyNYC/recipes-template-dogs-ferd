@@ -16,24 +16,13 @@ var createListing = function(dog) {
 
 // Create a list of adoptable dogs
 var getDogs = function() {
-  // Template
-  // <h2>{Dog Name}</h2>
-  // <p><img alt="A photo of {Dog Name}" src="photo.jpg"></p>
-  //
-  // <p>
-  // 		Age: {age}<br>
-  // 		Size: {size}<br>
-  // 		Gender: {gender}<br>
-  // 		Breeds: {breed1}, {breed2}
-  // </p>
-  //
-  // <strong>Other Details:</strong>
-  // <ul>
-  // 		<li>{detail1: ex. No Cats}</li>
-  // </ul>
-  //
-  // <p>{description}</p>
-  return '';
+  console.log(apiData);
+  return apiData
+    .map(function(dog) {
+      var html = 'Dog! ';
+      return html;
+    })
+    .join('');
 };
 // Load list of adoptable dogs into the DOM
 var dogList = document.querySelector('#dogs');
