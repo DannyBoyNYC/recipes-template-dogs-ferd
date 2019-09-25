@@ -11,7 +11,7 @@ var apiData = [
       'Hail-shot bounty barque  chase guns. Brigantine gibbet haul wind line.  Barque chandler lookout clap of thunder. Transom hogshead trysail league.'
   },
   {
-    name: 'kylie jane',
+    name: 'Kylie Jane',
     breeds: ['Shih Tzu'],
     age: 'baby',
     size: 'S',
@@ -22,7 +22,7 @@ var apiData = [
       '   Hands loaded to the gunwalls topgallant long clothes. Crack Jennys tea cup topsail flogging handsomely. Bounty blow the man down nipper pillage. Chantey landlubber or just lubber red ensign warp.'
   },
   {
-    name: 'jacque ',
+    name: 'Jacque ',
     breeds: ['Chihuahua', 'Rat Terrier'],
     age: 'senior',
     size: 'S',
