@@ -1,4 +1,4 @@
-var apiData = [
+export var apiData = [
   {
     name: 'Rufus',
     breeds: ['Lab', 'German Shepard', 'Border Collie'],
@@ -6,7 +6,7 @@ var apiData = [
     size: 'M',
     gender: 'M',
     details: 'No Cats, No Dogs',
-    photo: 'img/rufus.jpg',
+    photo: 'rufus',
     description:
       'Hail-shot bounty barque  chase guns. Brigantine gibbet haul wind line.  Barque chandler lookout clap of thunder. Transom hogshead trysail league.'
   },
@@ -17,7 +17,7 @@ var apiData = [
     size: 'S',
     gender: 'F',
     details: 'Neutered',
-    photo: 'img/kylie.jpg',
+    photo: 'kylie',
     description:
       '   Hands loaded to the gunwalls topgallant long clothes. Crack Jennys tea cup topsail flogging handsomely. Bounty blow the man down nipper pillage. Chantey landlubber or just lubber red ensign warp.'
   },
@@ -28,7 +28,7 @@ var apiData = [
     size: 'S',
     gender: 'M',
     details: 'No Cats, No Dogs, Neutered, Special Medical Needs',
-    photo: 'img/jacque.jpg',
+    photo: 'jacque',
     description:
       'Interloper tackle   yo-ho-ho yard. Gangway keelhaul no prey, no pay sheet. Hang the jib snow careen transom. Broadside gabion bilged on her anchor sloop.'
   },
@@ -39,7 +39,7 @@ var apiData = [
     size: 'XL',
     gender: 'F',
     details: 'Neutered',
-    photo: 'img/elsa.jpg',
+    photo: 'elsa',
     description:
       'Take a caulk league pink main sheet. Letter of Marque avast coxswain fire in the hole. Yardarm schooner piracy Jack Tar. Yardarm hardtack rutters poop deck.'
   },
@@ -50,7 +50,7 @@ var apiData = [
     size: 'L',
     gender: 'M',
     details: '',
-    photo: 'img/colt.jpg',
+    photo: 'colt',
     description:
       '     Come about Nelsons folly  black jack measured fer yer chains.  Hail-shot tack sloop grapple.  Boom sheet spirits man-of-war.  Scuttle bounty hulk sloop.'
   }
