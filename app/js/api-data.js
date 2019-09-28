@@ -1,14 +1,14 @@
 export var apiData = [
   {
-    name: 'Rufus',
-    breeds: ['Lab', 'German Shepard', 'Border Collie'],
+    name: 'Lasagna',
+    regions: ['Italy', 'Rome', 'Naples'],
     age: 'adult',
     size: 'M',
     gender: 'M',
     details: 'No Cats, No Dogs',
     photo: 'rufus',
     description:
-      'Hail-shot bounty barque  chase guns. Brigantine gibbet haul wind line.  Barque chandler lookout clap of thunder. Transom hogshead trysail league.'
+      'Hail-shot bounty barque  chase guns. Brigantine gibbet haul wind line. Barque chandler lookout clap of thunder. Transom hogshead trysail league.'
   },
   {
     name: 'Kylie Jane',
